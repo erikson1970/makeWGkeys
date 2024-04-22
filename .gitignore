@@ -1,0 +1,4 @@
+*.DS_Store
+*_keys_dir/*
+!*_keys_dir/README.md
+.ipynb_checkpoints/*

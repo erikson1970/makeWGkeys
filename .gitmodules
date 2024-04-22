@@ -1,0 +1,3 @@
+[submodule "genSentence"]
+	path = genSentence
+	url = https://gist.github.com/a870bde4f8afb4106db0b895a8e20957.git

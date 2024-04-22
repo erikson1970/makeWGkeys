@@ -1,0 +1,3 @@
+AllowedIPs = 10.10.192.2/32 PublicKey = xI4ky6XcCHKfcBHxg0f0FsdNyvX+g2BFoeCVB5oz4ng= Laptop1_wg0_27598/Laptop1_wg0_27598_wg0.conf [Riley-chewed-and-fried-a-cherry.]
+AllowedIPs = 10.10.192.4/32 PublicKey = L6SOwvJg2FfliwFxJYywm+auvF9UlxK700cZWeLN5UQ= iphone1_7213/iphone1_7213_wg0.conf [Anna-the-marten-chewed-a-lychee-and-a-nectarine.]
+AllowedIPs = 10.10.192.6/32 PublicKey = 7VY7JjXj5ljPQob+DaN87yE7rJSdjG5SzTvj7OpmHnQ= Jons_iphone11xr_wg0_21477/Jons_iphone11xr_wg0_21477_wg0.conf [Peter-fried-and-ground-a-pear-and-a-lime.]
